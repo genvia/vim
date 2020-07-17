@@ -51,7 +51,7 @@ endif
 set foldenable
 set noerrorbells
 set nowrap
-set hidden
+" set hidden
 " set cmdheight=2
 set updatetime=300
 set shortmess+=c

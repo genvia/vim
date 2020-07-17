@@ -1,4 +1,5 @@
-nmap <C-e> : q<CR>
+" nmap <C-e> : q<CR>
+nmap <C-q> : q<CR>
 inoremap <C-c> <esc>
 vmap <C-c> "+y
 
